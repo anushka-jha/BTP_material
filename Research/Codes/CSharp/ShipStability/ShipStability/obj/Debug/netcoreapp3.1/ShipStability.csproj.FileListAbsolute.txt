@@ -1,0 +1,16 @@
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.AssemblyInfoInputs.cache
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.AssemblyInfo.cs
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.csproj.CoreCompileInputs.cache
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.exe
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.deps.json
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.runtimeconfig.json
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.runtimeconfig.dev.json
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.dll
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\ShipStability.pdb
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.dll
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.pdb
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.genruntimeconfig.cache
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.csproj.CopyComplete
+D:\Ranadev\Research\Codes\CSharp\ShipStability\ShipStability\obj\Debug\netcoreapp3.1\ShipStability.csproj.AssemblyReference.cache
